@@ -41,6 +41,8 @@ $ pip install git+https://github.com/UBC-MDS/lrasm
 
 ## Usage
 
+Examples for usage and further documentation on ReadtheDocs can be found here: https://lrasm.readthedocs.io/en/latest/
+
 `lrasm` can be used to check linear regression assumptions as follows:
 
 ```
